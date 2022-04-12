@@ -3,7 +3,7 @@
 ###Modulo 7
 
 # Screenshot
-![](assets/screenshot.png)
+![](assets/img/screenshot.png)
 
 ### Installation
 
