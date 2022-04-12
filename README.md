@@ -10,7 +10,7 @@
 clone the repo
 
 ```
-git clone https://github.com/FaztWeb/first-node-express-app
+git clone https://github.com/ImDamianCortes/Desafio_Elecciones_Presidenciales.git
 ```
 
 install dependencies:
